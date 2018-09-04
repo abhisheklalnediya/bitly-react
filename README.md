@@ -1,4 +1,4 @@
-# CLONE OF node-bitly - Unofficial Bitly API for react
+# FORK OF node-bitly - Unofficial Bitly API for react
 
 # node-bitly - Unofficial Bitly API for nodejs
 
