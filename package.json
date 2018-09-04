@@ -1,19 +1,21 @@
 {
-  "name": "bitly",
-  "description": "A Bit.ly API library for Node.JS",
+  "name": "bitly-react",
+  "description": "A Bit.ly API library for Node.JS for react",
   "license": "MIT",
   "keywords": [
     "url",
     "bitly",
     "shortner",
-    "util"
+    "util",
+    "react",
+    "es5"
   ],
-  "homepage": "https://github.com/tanepiper/node-bitly",
+  "homepage": "https://github.com/abhisheklalnediya/bitly-react",
   "version": "6.0.8",
   "author": {
-    "name": "Tane Piper",
-    "email": "piper.tane@gmail.com",
-    "url": "https://github.com/tanepiper"
+    "name": "Abhishek Lal",
+    "email": "abhisheklalnediya@gmail.com",
+    "url": "https://github.com/abhisheklalnediya"
   },
   "contributors": [
     {
@@ -41,10 +43,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tanepiper/node-bitly.git"
+    "url": "https://github.com/abhisheklalnediya/bitly-react"
   },
   "bugs": {
-    "url": "https://github.com/tanepiper/node-bitly/issues"
+    "url": "https://github.com/abhisheklalnediya/bitly-react/issues"
   },
   "engines": {
     "node": ">= 6.10.0"
