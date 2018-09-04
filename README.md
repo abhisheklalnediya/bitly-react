@@ -1,3 +1,5 @@
+# CLONE OF node-bitly - Unofficial Bitly API for react
+
 # node-bitly - Unofficial Bitly API for nodejs
 
 [![CircleCI](https://circleci.com/gh/tanepiper/node-bitly.svg?style=svg)](https://circleci.com/gh/tanepiper/node-bitly) [![NPM version](https://badge.fury.io/js/bitly.png)](http://badge.fury.io/js/bitly) [![Dependencies](https://david-dm.org/tanepiper/node-bitly.svg)](https://david-dm.org/tanepiper/node-bitly)
