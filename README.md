@@ -43,7 +43,7 @@ To see the available libary APIs, you can view the [API Documentation](http://ta
 #### TypeScript / ES6 Imports
 
 ```js
-import { BitlyClient } from 'bitly';
+import { BitlyClient } from 'bitly-react';
 const bitly = new BitlyClient('<accessToken>', {});
 
 async function init() {
@@ -62,7 +62,7 @@ init();
 #### JavaScript
 
 ```js
-const { BitlyClient } = require('bitly');
+const { BitlyClient } = require('bitly-react');
 const bitly = new BitlyClient('<accessToken>', {});
 
 let result;
@@ -77,7 +77,7 @@ return result;
 If you are not using `node 8` then you can still use the library with `Promise` values:
 
 ```js
-const BitlyClient = require('bitly');
+const BitlyClient = require('bitly-react');
 const bitly = new BitlyClient('<accessToken>');
 
 bitly
@@ -94,7 +94,7 @@ You can also do raw requests to any Bitly endpoint. With this you need to pass t
 token to the method
 
 ```js
-const BitlyClient = require('bitly');
+const BitlyClient = require('bitly-react');
 const bitly = new BitlyClient('<accessToken>');
 
 try {
